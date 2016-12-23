@@ -11,7 +11,7 @@
     "browser": true,
     "es6": true
   },
-  "extends": ["eslint:recommended", "plugin:react/all"],
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
   "settings": {
     "react": {
       "createClass": "createClass", // Regex for Component Factory to use, default to "createClass"
